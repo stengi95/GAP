@@ -3,17 +3,17 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD04V>
-    <ROLLNAME>ZSM0514_DE_WEALTH</ROLLNAME>
+    <ROLLNAME>ZSM0514_DE_CREDIT</ROLLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <HEADLEN>55</HEADLEN>
     <SCRLEN1>10</SCRLEN1>
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
-    <DDTEXT>Wealth</DDTEXT>
-    <REPTEXT>Wealth</REPTEXT>
-    <SCRTEXT_S>Wealth</SCRTEXT_S>
-    <SCRTEXT_M>Wealth</SCRTEXT_M>
-    <SCRTEXT_L>Wealth</SCRTEXT_L>
+    <DDTEXT>Space Credit</DDTEXT>
+    <REPTEXT>Space Credit</REPTEXT>
+    <SCRTEXT_S>Credit</SCRTEXT_S>
+    <SCRTEXT_M>Space Credit</SCRTEXT_M>
+    <SCRTEXT_L>Space Credit</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
     <DATATYPE>DEC</DATATYPE>
     <LENG>000016</LENG>

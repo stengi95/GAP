@@ -3,21 +3,21 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD04V>
-    <ROLLNAME>ZSM0514_DE_SDC_ID</ROLLNAME>
+    <ROLLNAME>ZSM0514_DE_STARDUST_RAW</ROLLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <HEADLEN>55</HEADLEN>
     <SCRLEN1>10</SCRLEN1>
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
-    <DDTEXT>Stardust Collection ID</DDTEXT>
-    <REPTEXT>Stardust Collection ID</REPTEXT>
-    <SCRTEXT_S>SDC ID</SCRTEXT_S>
-    <SCRTEXT_M>Stardust Collection</SCRTEXT_M>
-    <SCRTEXT_L>Stardust Collection ID</SCRTEXT_L>
+    <DDTEXT>Stardust Raw</DDTEXT>
+    <REPTEXT>Raw Stardust</REPTEXT>
+    <SCRTEXT_S>Raw</SCRTEXT_S>
+    <SCRTEXT_M>Raw Stardust</SCRTEXT_M>
+    <SCRTEXT_L>Raw Stardust</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
-    <DATATYPE>INT8</DATATYPE>
-    <LENG>000019</LENG>
-    <OUTPUTLEN>000020</OUTPUTLEN>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000001</LENG>
+    <OUTPUTLEN>000001</OUTPUTLEN>
     <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
    </DD04V>
   </asx:values>
